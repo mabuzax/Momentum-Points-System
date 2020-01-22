@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.momentum.points.api.MomentumPointsApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.385 s - in com.momentum.points.api.MomentumPointsApiApplicationTests

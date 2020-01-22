@@ -1,0 +1,9 @@
+com\momentum\points\api\MomentumPointsApiApplication.class
+com\momentum\points\api\repositories\CustomerRepository.class
+com\momentum\points\api\controllers\PurchaseController.class
+com\momentum\points\api\models\Product.class
+com\momentum\points\api\CustomResponse.class
+com\momentum\points\api\repositories\ProductRepository.class
+com\momentum\points\api\models\Customer.class
+com\momentum\points\api\models\PointsAccount.class
+com\momentum\points\api\repositories\PointsAccountRepository.class

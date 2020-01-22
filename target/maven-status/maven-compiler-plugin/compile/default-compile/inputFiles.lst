@@ -1,0 +1,16 @@
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\security\SpringSecurityConfig.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\exceptions\GlobalExceptionHandler.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\repositories\PointsAccountRepository.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\CustomResponse.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\exceptions\ContentNotFoundException.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\MomentumPointsApiApplication.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\controllers\WebController.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\exceptions\ErrorDetails.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\controllers\PurchaseController.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\models\PointsAccount.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\swagger\Swagger2Config.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\models\Product.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\repositories\CustomerRepository.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\models\Customer.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\repositories\ProductRepository.java
+C:\Users\mabuz\workspace\SpringStuff\MomentumPointsAPI\src\main\java\com\momentum\points\api\exceptions\ResourceNotFoundException.java
