@@ -41,7 +41,13 @@ Note: To build from source, you need the following installed
   
 ## Some CURLs
 
-* List Customers::  curl -u user GET "http://localhost:8081/momentum/api/v1/customer/list" -H "accept: */*"
-* List Products::  curl -u user GET "http://localhost:8081/momentum/api/v1/product/list" -H "accept: */*"
+* List Customers::  curl -u user GET "yourserver/momentum/api/v1/customer/list" -H "accept: */*"
+* List Products::  curl -u user GET "yourserver/momentum/api/v1/product/list" -H "accept: */*"
 
  **The Developer API documentation** contains all the curls devs can use for api testing purposes.
+
+## APi Web Interface 
+
+A web interface is provided for minimum operations of the Api and can be accessed using: **yourserver/** or **yourserver/storeadmin**
+
+
